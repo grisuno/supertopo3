@@ -78,7 +78,9 @@ $$A_{\theta^*}(G_N) \approx \hat{H}_\infty\big|_{V_N}$$
 
 Define the expansion operator $T_{N \to M}$ by zero-padding in the frequency domain:
 
-$$T_{N \to M}(\theta^*) = \mathcal{F}^{-1}\left[\mathbb{1}_{[-N/2, N/2]^d} \cdot \mathcal{F}(\theta^*)\right]$$
+$$
+T_{N \to M}(\theta^*) = \mathcal{F}^{-1} \left[ \mathbb{1}_{[-N/2, N/2]^d} \cdot \mathcal{F}(\theta^*) \right]
+$$
 
 where $\mathcal{F}$ denotes the Fourier transform of the operator kernel, not of the graph.
 
