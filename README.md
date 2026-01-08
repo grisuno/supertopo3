@@ -1,4 +1,4 @@
-# # Grokkit: A Unified Framework for Zero-Shot Structural Transfer of Spectral Operators
+# Grokkit: A Unified Framework for Zero-Shot Structural Transfer of Spectral Operators
 
 ## Abstract
 
