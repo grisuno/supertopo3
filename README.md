@@ -215,6 +215,15 @@ Code and pretrained grokked models are publicly available:
 - DOI: [10.5281/zenodo.18072859](https://doi.org/10.5281/zenodo.18072859)
 - DOI: [zenodo/records/18090341](https://zenodo.org/records/18090341)
 
+## XI. Ciclotron.
+
+<img width="1785" height="1536" alt="image" src="https://github.com/user-attachments/assets/d076cdac-d585-4e80-b95d-4069f6967f1f" />
+
+<img width="2235" height="1536" alt="image" src="https://github.com/user-attachments/assets/2b053f21-f236-41b3-8091-c7e319dedfb2" />
+
+<img width="2226" height="1536" alt="image" src="https://github.com/user-attachments/assets/f8dae6d2-6b5f-4349-b3e9-b84498721cd3" />
+
+
 **License:** AGPL v3
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
