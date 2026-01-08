@@ -189,7 +189,7 @@ The **87× degradation** in v2 vs v3 validates that altering the implicit spectr
 
 ---
 
-## Related Work
+## VIII. Related Work
 
 - **[SWAN-Phoenix-Rising](https://github.com/grisuno/SWAN-Phoenix-Rising):** Applied same method to different task (AUPRC > 0.99). Shows technique generalizes beyond AUPRC.
 - **[Kepler Orbit Grokker](https://github.com/grisuno/kepler_orbit_grokker/):** Applied same method to different task . Shows technique generalizes beyond Kepler Orbit.
@@ -197,7 +197,7 @@ The **87× degradation** in v2 vs v3 validates that altering the implicit spectr
 - **[Structural Transfer for Wave Dynamics](https://github.com/grisuno/1d_wave_equation_grokker): Zero-Shot Algorithmic Expansion in 1D Wave Propagation:** Applied same method to different task . Shows technique generalizes beyond 1D Wave Equation.
 - **[Agentic Grokked Integrated is a Unified Framework for Zero-Shot Structural Transfer of Grokked Algorithmic Cassettes](https://github.com/grisuno/agi):** Modular framework for composing and deploying neural networks that have grokked compact algorithmic or physical laws.
 
-## 6. Reproducibility
+## IX. Reproducibility
 
 Code and pretrained grokked models are publicly available:
 
@@ -207,7 +207,7 @@ Code and pretrained grokked models are publicly available:
 - Kepler Cassette: [https://github.com/grisuno/kepler_orbit_grokker](https://github.com/grisuno/kepler_orbit_grokker)
 - Pendulum Cassette: [https://github.com/grisuno/chaotic_pendulum_grokked](https://github.com/grisuno/chaotic_pendulum_grokked)
 
-## References
+## X. References
 
 **Reproducibility:** Full code and pretrained models available at:
 
