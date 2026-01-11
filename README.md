@@ -206,6 +206,9 @@ Code and pretrained grokked models are publicly available:
 - Wave Cassette: [https://github.com/grisuno/1d_wave_equation_grokker](https://github.com/grisuno/1d_wave_equation_grokker)
 - Kepler Cassette: [https://github.com/grisuno/kepler_orbit_grokker](https://github.com/grisuno/kepler_orbit_grokker)
 - Pendulum Cassette: [https://github.com/grisuno/chaotic_pendulum_grokked](https://github.com/grisuno/chaotic_pendulum_grokked)
+- Ciclotron Cassette: [https://github.com/grisuno/supertopo3](https://github.com/grisuno/supertopo3)
+- MatMul 2x2 Cassette: [https://github.com/grisuno/matrixgrokker](https://github.com/grisuno/matrixgrokker)
+- HPU Hamiltonian Cassette: [https://github.com/grisuno/HPU-Core](https://github.com/grisuno/HPU-Core)
 
 ## X. References
 
