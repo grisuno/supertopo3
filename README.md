@@ -449,6 +449,12 @@ The experiment was conducted using PyTorch with the following key dependencies:
 
 ---
 
+## Post Script
+
+Large language models were used as auxiliary tools for documentation drafting and exploratory code prototyping. All hypotheses, experimental designs, analyses, and final implementations were conceived, validated, and written by the author.
+
+---
+
 **Author:** grisun0
 **Date:** 2026-01-14  
 **Version:** 1.0
