@@ -2,7 +2,7 @@
 
 - **Author**: grisun0  
 - **Date**: 2026-01-14  
-- **DOI**: 10.5281/zenodo.18072859  https://zenodo.org/records/18090341
+- **DOI**: 10.5281/zenodo.18072859  https://zenodo.org/records/18090341 https://doi.org/10.5281/zenodo.18072858
 - **License**: AGPL v3
 
 ---
