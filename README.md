@@ -1,9 +1,9 @@
 # Grokkit: A Geometric Framework for Zero-Shot Structural Transfer of Spectral Operators in Deep Learning
 
-**Author**: grisun0  
-**Date**: 2026-01-14  
-**DOI**: 10.5281/zenodo.18072859  
-**License**: AGPL v3
+- **Author**: grisun0  
+- **Date**: 2026-01-14  
+- **DOI**: 10.5281/zenodo.18072859  https://zenodo.org/records/18090341
+- **License**: AGPL v3
 
 ---
 
