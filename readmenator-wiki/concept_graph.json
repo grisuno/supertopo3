@@ -1,0 +1,206 @@
+{
+  "concepts": [
+    {
+      "name": "forward",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 6,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "weights",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 5,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "adjacency",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 4,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "brain",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 4,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "topo",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 4,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "train",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 4,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "cyclotron",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 3,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "len",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 3,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "physical",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 3,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "topobrain",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 3,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "adam",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "angular",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "config",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "dataset",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "generate",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "getitem",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "max",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "orthogonal",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "radial",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "stable",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "step",
+      "files": [
+        "app.py",
+        "topobrain_fusion.py"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    }
+  ],
+  "relations": [],
+  "dialectic": [
+    "Thesis: `adam` centralizes 2 files; Antithesis: `adjacency` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `angular` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `brain` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `config` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `cyclotron` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `dataset` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `forward` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `generate` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `getitem` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `adam` centralizes 2 files; Antithesis: `len` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?"
+  ]
+}
