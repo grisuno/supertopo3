@@ -11,7 +11,7 @@
 
 **Total Files Parsed:** 3 | **Total Symbols Extracted:** 45 | **Total Imports:** 19
 
-<!-- ranking_model: v1.0 | weights: {ppr:0.45,auth:0.2,test:0.15,doc:0.1,fresh:0.1} | alpha:0.85 | commit:1e0fd0b | date:2026-07-18 -->
+<!-- ranking_model: v1.0 | weights: {ppr:0.45,auth:0.2,test:0.15,doc:0.1,fresh:0.1} | alpha:0.85 | commit:05a4468 | date:2026-07-18 -->
 
 
 ## Table of Contents
@@ -24,13 +24,12 @@
 6. [Hotspot Analysis](#hotspot-analysis)
 7. [Change Impact Analysis](#change-impact-analysis)
 8. [Suggested Linting Rules](#suggested-linting-rules)
-9. [Concept Graph](#concept-graph)
-10. [Orphans](#orphans)
-11. [Query Recipes](#query-recipes)
-12. [Structural Knowledge Map](#structural-knowledge-map)
-13. [UML Class Diagram](#uml-class-diagram)
-14. [Code Property Graph](#code-property-graph)
-15. [Architecture Reference](#architecture-reference)
+9. [Orphans](#orphans)
+10. [Query Recipes](#query-recipes)
+11. [Structural Knowledge Map](#structural-knowledge-map)
+12. [UML Class Diagram](#uml-class-diagram)
+13. [Code Property Graph](#code-property-graph)
+14. [Architecture Reference](#architecture-reference)
     - [PY (2 files)](#py-2-files)
     - [SH (1 files)](#sh-1-files)
 
@@ -119,51 +118,6 @@ Files ranked by combined complexity (symbol count) and centrality (connection co
 | `topobrain_fusion.py` | 1.000 | 1.000 | 1.000 | 25 | 11 |
 | `app.py` | 0.800 | 0.727 | 0.756 | 20 | 8 |
 | `install.sh` | 0.000 | 0.000 | 0.000 | 0 | 0 |
-
----
-
-## Concept Graph
-
-Semantic second-brain layer: nouns are concept nodes, verbs are edges. Each noun maps atomically to a file set (EXTRACTED); each verb aggregates structural imports, calls, and inherits into consumes, invokes, extends, depends_on, or bridges (INFERRED).
-
-**21 concepts, 0 relations.**
-
-| Concept | Files | Mentions |
-|---------|-------|----------|
-| `forward` | 2 | 6 |
-| `weights` | 2 | 5 |
-| `adjacency` | 2 | 4 |
-| `brain` | 2 | 4 |
-| `topo` | 2 | 4 |
-| `train` | 2 | 4 |
-| `cyclotron` | 2 | 3 |
-| `len` | 2 | 3 |
-| `physical` | 2 | 3 |
-| `topobrain` | 2 | 3 |
-| `adam` | 2 | 2 |
-| `angular` | 2 | 2 |
-| `config` | 2 | 2 |
-| `dataset` | 2 | 2 |
-| `generate` | 2 | 2 |
-| `getitem` | 2 | 2 |
-| `max` | 2 | 2 |
-| `orthogonal` | 2 | 2 |
-| `radial` | 2 | 2 |
-| `stable` | 2 | 2 |
-| `step` | 2 | 2 |
-
-### Dialectic Prompts
-
-- Thesis: `adam` centralizes 2 files; Antithesis: `adjacency` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `angular` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `brain` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `config` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `cyclotron` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `dataset` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `forward` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `generate` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `getitem` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
-- Thesis: `adam` centralizes 2 files; Antithesis: `len` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?
 
 ---
 

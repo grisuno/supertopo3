@@ -1,8 +1,8 @@
 # Subsystem: root
 
 ## app.py
-- Doc: Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación...
 - Layer: utility
+- Doc: app.py  Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación: 08/01/2026 Licenci
 - Language: py
 - Symbols:
   - `Config` (class, line 23) `class Config`
@@ -31,8 +31,8 @@
 - Language: sh
 
 ## topobrain_fusion.py
-- Doc: TopoBrain Fusion Engine: Combining 1-Node and 8-Node Architectures   FUSION STRATEGY...
 - Layer: utility
+- Doc: TopoBrain Fusion Engine: Combining 1-Node and 8-Node Architectures   FUSION STRATEGY: Prediction-Level Ensemble Since 1-
 - Language: py
 - Symbols:
   - `Config` (class, line 41) `class Config`
